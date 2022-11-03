@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "G6hoj1n5ceV30NRwisSkhc1vJGs7fQPJJt63fJ1A7gI=",
+  "Source": "Project2",
+  "BasePath": "_content/Project2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Project2\\wwwroot",
+      "Source": "Project2",
+      "ContentRoot": "C:\\Users\\37529\\source\\repos\\Project2\\Project2\\wwwroot\\",
+      "BasePath": "_content/Project2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\37529\\source\\repos\\Project2\\Project2\\wwwroot\\css\\Page.css",
+      "SourceId": "Project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\37529\\source\\repos\\Project2\\Project2\\wwwroot\\",
+      "BasePath": "_content/Project2",
+      "RelativePath": "css/Page.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Page.css"
+    }
+  ]
+}
